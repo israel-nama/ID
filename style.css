@@ -1,0 +1,48 @@
+body{
+    background-color: whitesmoke;
+    background-image:url();
+    background-repeat:no-repeat;
+
+
+
+}
+ul{
+    list-style-type: none;
+}
+.nav-list{
+    color: #717171;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    float: right;
+    margin-right: 30px;
+
+
+}
+.nav{
+    margin: left 20px;
+}
+h1{
+    font-weight:bold;
+    font-size: 40px;
+}
+.services{
+    font-size: 50px;
+    text-align: center;
+ text-transform: lowercase;
+ text-decoration: solid;
+}
+.services-list{
+    font-size:20px; 
+    margin-bottom: 20px;
+    text-decoration: solid;
+    
+}
+img{
+    text-align: right;
+    display: flex;
+}
+    
